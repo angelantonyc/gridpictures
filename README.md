@@ -23,7 +23,7 @@ Holiday API integration was included.
 * HTML code is in index.html.
 * CSS file is in css/styles.css
 * JavaScript files are in js folder. Totally, there are three JavaScript files.
-  * * taskMangerTable.js - class of taskManager defined. Inside TaskManger class all the methods are defined.
+  * taskMangerTable.js - class of taskManager defined. Inside TaskManger class all the methods are defined.
   2. index.js - all the event listeners in index.js. 
   3. api.js - The public holiday api code is in this file.
 * All the images used for carousel are in images folder.
@@ -54,7 +54,7 @@ This Tasklist Application provides the following basic features:
 
 
 
-> #### Useful Resources for this sprint
+#### Useful Resources for this sprint
 
 > - [Forms](https://getbootstrap.com/docs/4.5/components/forms/)
 > - [Buttons](https://getbootstrap.com/docs/4.5/components/buttons/)
